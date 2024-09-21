@@ -17,3 +17,7 @@ Features:
 Basic Validation: The script currently checks for required fields, valid email addresses, and valid phone numbers.
 Visual Feedback: The form elements change color and display messages to guide the user.
 Clear Instructions: The form includes helpful labels and placeholder text.
+
+![Screenshot 2024-09-21 213222](https://github.com/user-attachments/assets/1ee98511-01f1-4732-ba01-b9f2add93f17)
+![Screenshot 2024-09-21 213310](https://github.com/user-attachments/assets/22358c15-8228-445b-a181-da5615d3d05c)
+![Screenshot 2024-09-21 213327](https://github.com/user-attachments/assets/fd8f463d-3ecc-4431-99c3-b2d8803ae533)
